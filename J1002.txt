@@ -1,0 +1,65 @@
+<html>
+Name: Vishnu Nambiar
+Journal: J1002
+Date: 17-Aug-2021
+
+
+I recieved assistance from: Vishnu Nambiar
+
+I assisted: Vishnu Nambiar
+
+1.1:
+I use Discord and Instagram, which both use the client server model.
+
+2.1:
+It is mportant to be able to have two different users to be able to create a directory of the same name because those individuals can stay seperate and keep their directories to themselves.
+
+3.1:
+It has a special symbol because it helps to uniquely identify the whole directory without any confusion, thinking it might be another one.
+
+4.1:
+Yes it changed. It added a /Merlin to the tilde (~)
+
+5.1:
+It brings the last code typed, and goes back further the more you press it.
+
+5.2:
+It brings you back to the beginning after pressing the down arrow enough times.
+
+6.1:
+No. Because it was output to some other file. It probably created a new file with the text.
+
+7.1:
+ls only shows the directories under the current directories under the current directory, nothe entire heirarchy like tree.
+
+7.2:
+I use tree to see the entire heirarchy, and I use ls to see what is under the current directory.
+
+8.1:
+Specifies to prevent the return line coming for a certain period of seconds.
+
+8.2:
+I count down to see if the number matches with the seconds.
+
+9.1:
+It sleeps in the background, so it is active and unused until brought to the foreground.
+
+9.2:
+It does this while giving you access to the command line, so you are still able to do some things.
+
+9.3:
+The numbers display what job it is in a list.
+
+10.1:
+I see a list of jobs in the order that I initiated them.
+
+10.2:
+It is a list with each job I inputed, labled by the number of which one in order.
+What did I learn? What is the "big idea"?
+
+What challenges did I encounter?
+
+How could this be improved?
+
+Free Reflection: How has what I've learned impacted my thinking?
+</html>
